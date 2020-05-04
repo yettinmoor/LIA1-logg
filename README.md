@@ -36,7 +36,7 @@ Fortsatte utveckla GUI:n. Lärde mig om [Hayes-kommandon](https://en.wikipedia.o
 
 Det har varit en lärorik vecka och jag har fått testa många saker jag är relativt oerfaren i: digitalteknik, skriva till/läsa från fysiska portar, designa och implementera en GUI, och framför allt designa ett komplext program utifrån ett kravspecifikation. En stor utmaning har varit att hantera logistiken av olika .NET-versioner, DLL-importer och kompatibilitet, ladda ner bibliotek med pakethanterare, osv, vilket jag inte har mycket erfarenhet av från de relativt små uppgifter vi får i skolan.
 
-# Vecka 18
+# Vecka 19
 
 ## Måndag 4 maj
 
