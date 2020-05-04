@@ -35,3 +35,9 @@ Faktorerade om koden för att dela bibliotekskod från front-end (ovannämnda to
 Fortsatte utveckla GUI:n. Lärde mig om [Hayes-kommandon](https://en.wikipedia.org/wiki/Hayes_command_set) som kommer användas för att programmera och hämta information från sensorerna via en separat port, och började lägga till den funktionaliteten till kodbasen. Hårdvaran för kretskortet ankommer nästa vecka så mina möjligheter att testa min kod har varit begränsade den här veckan, men jag är nöjd med hur det har gått hittills och David är nöjd med min insats.
 
 Det har varit en lärorik vecka och jag har fått testa många saker jag är relativt oerfaren i: digitalteknik, skriva till/läsa från fysiska portar, designa och implementera en GUI, och framför allt designa ett komplext program utifrån ett kravspecifikation. En stor utmaning har varit att hantera logistiken av olika .NET-versioner, DLL-importer och kompatibilitet, ladda ner bibliotek med pakethanterare, osv, vilket jag inte har mycket erfarenhet av från de relativt små uppgifter vi får i skolan.
+
+# Vecka 18
+
+## Måndag 4 maj
+
+Fortsatte förfina och debugga GUI:n jag började arbeta med förra veckan. Jag studerade också databladet för en I2C-baserad analog-digitalomvandlare ([ADS1015](https://www.adafruit.com/product/1083)) som mitt program ska styra.
