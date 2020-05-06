@@ -41,3 +41,9 @@ Det har varit en lärorik vecka och jag har fått testa många saker jag är rel
 ## Måndag 4 maj
 
 Fortsatte förfina och debugga GUI:n jag började arbeta med förra veckan. Jag studerade också databladet för en I2C-baserad analog-digitalomvandlare ([ADS1015](https://www.adafruit.com/product/1083)) som mitt program ska styra.
+
+## Onsdag 6 maj
+
+Hemma igår pga sjukdom. Experimenterade med ovannämnda ADC:n mha kretskortet jag har byggt under praktiken och implementerade den i mitt C#-program, vilket tog större delen av dagen. Programmet kan nu räkna ut voltskillnader mellan två pins, vilket (enligt David) kommer vara användbart i testkortet. Jag ser fram emot att få testa mitt program på riktiga hårdvaran.
+
+[Kretskort](../img/kretskort.jpg)
