@@ -47,3 +47,9 @@ Fortsatte förfina och debugga GUI:n jag började arbeta med förra veckan. Jag 
 Hemma igår pga sjukdom. Experimenterade med ovannämnda ADC:n mha kretskortet jag har byggt under praktiken och implementerade den i mitt C#-program, vilket tog större delen av dagen. Programmet kan nu räkna ut voltskillnader mellan två pins, vilket (enligt David) kommer vara användbart i testkortet. Jag ser fram emot att få testa mitt program på riktiga hårdvaran.
 
 ![Kretskort](img/kretskort.jpg)
+
+## Torsdag 7 maj
+
+Jag spenderade dagen med att finslipa GUI:n i väntan på att hårdvaran skulle byggas färdigt. På eftermiddagen hjälpte jag till med att löda några kretskort, vilket var en underhållande distraktion. Imorgon är kortet förhoppningsvis färdigt och jag kan börja nästa fas av utveckling.
+
+![Program](img/program_v19.png)
