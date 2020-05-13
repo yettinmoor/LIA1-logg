@@ -46,7 +46,7 @@ Fortsatte förfina och debugga GUI:n jag började arbeta med förra veckan. Jag 
 
 Hemma igår pga sjukdom. Experimenterade med ovannämnda ADC:n mha kretskortet jag har byggt under praktiken och implementerade den i mitt C#-program, vilket tog större delen av dagen. Programmet kan nu räkna ut voltskillnader mellan två pins, vilket (enligt David) kommer vara användbart i testkortet. Jag ser fram emot att få testa mitt program på riktiga hårdvaran.
 
-![Kretskort](img/kretskort.jpg)
+![Kretskort](img/kretskort-0506.jpg)
 
 ## Torsdag 7 maj
 
@@ -67,3 +67,9 @@ Jag spenderade lite tid på helgen med att skriva om delar av mitt program i [Go
 Så idag började jag skriva om C#-versionen för att efterlikna Go-versionen. Översättningen var lite mer bökigt än vad jag hoppades på pga objektorienterade strukturen av C#; Go är mycket simplare och C-likt. Imorgon vill jag fortsätta refaktorera C#-versionen och utforska möjligheten att göra en GUI-frontend för Go-versionen. Eventuellt kan Go-versionen ersätta C#-versionen, om David går med på det.
 
 Jag fortsatte också löda huvudkortet idag och kom tillräckligt långt för att koppla den till min dator och göra enkla tester mha [Termite](https://www.compuphase.com/software_termite.htm).
+
+## Tis 12, ons 13
+
+Spenderat senaste dagarna med att debugga hårdvaran och faktorera om koden för att passa den bättre. Vi (jag) har upptäckt ett par buggar som kommer kräva fler fysiska patcher, men i det stora så fungerar det bra. Jag har helt bytt till Go vilket David är ok med för tillfället. Go saknar GUI-bibliotek i nivå med WPF + XAML, men jag har funnit att dess concurrency-förmågor passar GUI-utveckling mycket väl.
+
+![Kretskort](img/kretskort-0513.jpg)
