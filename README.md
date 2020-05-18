@@ -80,6 +80,6 @@ Fortsatte debugga programmet och kretskortet.
 
 # Vecka 21
 
-# Måndag 18
+## Måndag 18
 
 Vi har upptäckt en del problem med kretskortet de senaste dagarna och håller på att långsamt debugga dem. Det svåra är att jag har svårt att veta hur mycket beror på min kod och hur mycket på interna problem i kortet. Jag lär mig mer och mer om elektronik vilket glädjer mig; de flesta programmeringsjobb håller inte på med det direkt men förmodligen kommer jag ha nytta av det i framtiden.
