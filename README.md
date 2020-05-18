@@ -73,3 +73,13 @@ Jag fortsatte också löda huvudkortet idag och kom tillräckligt långt för at
 Spenderat senaste dagarna med att debugga hårdvaran och faktorera om koden för att passa den bättre. Vi (jag) har upptäckt ett par buggar som kommer kräva fler fysiska patcher, men i det stora så fungerar det bra. Jag har helt bytt till Go vilket David är ok med för tillfället. Go saknar GUI-bibliotek i nivå med WPF + XAML, men jag har funnit att dess concurrency-förmågor passar GUI-utveckling mycket väl.
 
 ![Kretskort](img/kretskort-0513.jpg)
+
+## Tors 14, fre 15
+
+Fortsatte debugga programmet och kretskortet.
+
+# Vecka 21
+
+# Måndag 18
+
+Vi har upptäckt en del problem med kretskortet de senaste dagarna och håller på att långsamt debugga dem. Det svåra är att jag har svårt att veta hur mycket beror på min kod och hur mycket på interna problem i kortet. Jag lär mig mer och mer om elektronik vilket glädjer mig; de flesta programmeringsjobb håller inte på med det direkt men förmodligen kommer jag ha nytta av det i framtiden.
