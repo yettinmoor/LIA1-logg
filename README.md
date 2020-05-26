@@ -87,3 +87,15 @@ Vi har upptäckt en del problem med kretskortet de senaste dagarna och håller p
 ## Tisdag 19
 
 Jag upptäckte äntligen källan till stora buggen som har plågat mig (en pin på kortet var inte ordentligt jordad...). Tack vare det kunde jag testa programmet mer ingående; jag gjorde några förändringar i GUI-koden för att göra den mer intuitiv.
+
+## Onsdag 20, fredag 22
+
+Vi lyckades äntligen sätta upp en ordentlig testrigg som andra anställda kan använda för att testa programmet. Jag har kommit tillräckligt långt att David kunde testköra programmet i några minuter och ge mig feedback på hur GUI:n kan göras mer intuitiv och några features han önskar.
+
+# Vecka 22
+
+## Måndag 25, tisdag 26
+
+Fortsatte förfina GUI:n efter Davids feedback och löste några buggar för att göra programmer mer robust när t.ex. hårdvaran fallerar.
+
+En anställd testkörde mitt program via remote på testriggen och vi inväntar hans tankar och buggrapporter.
