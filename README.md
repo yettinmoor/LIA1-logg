@@ -99,3 +99,7 @@ Vi lyckades äntligen sätta upp en ordentlig testrigg som andra anställda kan 
 Fortsatte förfina GUI:n efter Davids feedback och löste några buggar för att göra programmer mer robust när t.ex. hårdvaran fallerar.
 
 En anställd testkörde mitt program via remote på testriggen och vi inväntar hans tankar och buggrapporter.
+
+## Onsdag 27
+
+Jag har börjat nå en tillräckligt stabil punkt där jag kan relativt enkelt lägga till nya features och göra justeringar till nuvarande funktionalitet. Idag jobbade jag med många små fixar och förändringar som Michael (som testkörde mitt program) och David bad om. Jag är också otroligt glad att jag bytte till att programmera i Go. Trots att GUI-biblioteket är primitivt är det väldigt friktionslöst att programmera t.ex. asyncfunktioner som GUI-kod litar mycket på.
