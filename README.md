@@ -111,3 +111,9 @@ Mer GUI-kod
 ## Fredag 29
 
 Idag fick jag kolla på C-koden som flashas på sensorerna. Det är väldigt komplicerad kod som har utvecklats av en anställd som har jobbat med det i flera år. Den är byggd på FreeRTOS (ett helt operativsystem utvecklat för inbyggda system). Jag kände ändå att jag förstod den lilla delen av koden som jag utforskade. Mot slutet av dagen lyckades jag kompilera hela kodbasen och flasha en sensor.
+
+# Vecka 23
+
+## Måndag 1, tisdag 2
+
+Lödde ihop en till teststation.
